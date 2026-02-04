@@ -6,7 +6,7 @@ This repository contains the code and analysis for my Final Year Project (FYP) s
 🎯 Aim
 To quantify and compare the temporal associations between weekly rainfall patterns and dengue case incidence in two climatologically distinct Medical Officer of Health (MOH) areas in Sri Lanka over the period 2020–2025, contributing to the development of climate-informed dengue surveillance strategies.
 📍 Study Areas
-MOH AreaClimatic ZoneAnnual RainfallBalangodaWet Zone~2,500–3,000 mmUdawalawaDry Zone~1,200–1,800 mm
+MOH AreaClimatic ZoneAnnual RainfallBalangodaWet Zone 2,500–3,000 mmUdawalawaDry Zone 1,200–1,800 mm
 
 🔬 Research Objectives
 
